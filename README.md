@@ -41,5 +41,6 @@ Fix 'Documentation' button doesn't works on Mac OS X
     sudo ln -s  /Applications/MacPorts/Qt4/*.app /opt/local/bin/
 
 
+## Stargazers over time
 
-
+[![Stargazers over time](https://starchart.cc/shuge/Qt-Python-Binding-Examples.svg)](https://starchart.cc/shuge/Qt-Python-Binding-Examples)
