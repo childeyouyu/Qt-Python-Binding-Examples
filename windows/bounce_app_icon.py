@@ -6,7 +6,7 @@ demo template
 Tested environment:
     Mac OS X 10.6.8
 
-http://doc.qt.nokia.com/latest/qapplication.html#alert
+https://doc.qt.io/qt-5/qapplication.html#alert
 """
 import sys
 import time

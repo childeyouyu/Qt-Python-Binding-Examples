@@ -1,3 +1,3 @@
 
 
-http://doc.qt.nokia.com/latest/internationalization.html
+https://doc.qt.io/qt-5/internationalization.html

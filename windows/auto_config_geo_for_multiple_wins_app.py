@@ -7,7 +7,7 @@ Tested environment:
 
 http://www.pyside.org/docs/pyside/PySide/QtGui/QWidget.html
 http://www.pyside.org/docs/pyside/PySide/QtCore/QRect.html
-http://doc.qt.nokia.com/latest/qdesktopwidget.html
+https://doc.qt.io/qt-5/qdesktopwidget.html
 """
 import sys
 

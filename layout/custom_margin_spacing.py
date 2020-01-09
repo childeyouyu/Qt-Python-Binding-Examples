@@ -7,8 +7,8 @@ Tested environment:
     Mac OS X 10.6.8
 
 
-http://doc.qt.nokia.com/latest/layout.html
-http://doc.qt.nokia.com/latest/qlayout.html
+https://doc.qt.io/qt-5/layout.html
+https://doc.qt.io/qt-5/qlayout.html
 
 http://www.pyside.org/docs/pyside/PySide/QtGui/QLayout.html
 """

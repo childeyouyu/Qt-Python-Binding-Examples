@@ -1,7 +1,7 @@
 # Layout
 
-http://doc.qt.nokia.com/latest/layout.html
-http://doc.qt.nokia.com/latest/widgets-and-layouts.html
+https://doc.qt.io/latest/layout.html
+https://doc.qt.io/latest/widgets-and-layouts.html
 
 four types of layout
 

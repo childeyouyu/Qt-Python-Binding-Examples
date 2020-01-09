@@ -8,7 +8,7 @@ NOTE: you should set a icon for QToolButton
 Tested environment:
     Mac OS X 10.6.8
 
-http://doc.qt.nokia.com/latest/qtoolbutton.html
+https://doc.qt.io/qt-5/qtoolbutton.html
 """
 import sys
 import qcommons

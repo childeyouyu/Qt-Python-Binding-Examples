@@ -8,7 +8,7 @@ Tested environment:
 
 
 http://www.pyside.org/docs/pyside/PySide/QtGui/QMainWindow.html#qt-main-window-framework
-http://doc.qt.nokia.com/latest/qmainwindow.html#qt-main-window-framework
+https://doc.qt.io/qt-5/qmainwindow.html#qt-main-window-framework
 """
 import sys
 

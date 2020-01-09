@@ -28,6 +28,6 @@ external links
 
 .app render jpeg failed
 
-http://doc.qt.nokia.com/qq/qq17-imageio.html
-http://doc.qt.nokia.com/qq/qq10-windows-deployment.html
+https://doc.qt.io/qq/qq17-imageio.html
+https://doc.qt.io/qq/qq10-windows-deployment.html
 http://developer.qt.nokia.com/doc/qt-4.8/qcoreapplication.html

@@ -12,7 +12,7 @@ Install Oxygen icon on Mac OS X via MacPorts:
     sudo port install oxygen-icons
 
 
-http://doc.qt.nokia.com/latest/qpixmap.html
+https://doc.qt.io/qt-5/qpixmap.html
 http://www.pyside.org/docs/pyside/PySide/QtGui/QPixmap.html#PySide.QtGui.PySide.QtGui.QPixmap.alphaChannel
 """
 import sys

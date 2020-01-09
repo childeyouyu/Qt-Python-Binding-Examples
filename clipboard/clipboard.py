@@ -6,7 +6,7 @@ clipboard demo
 Tested environment:
     Mac OS X 10.6.8
 
-http://doc.qt.nokia.com/latest/qclipboard.html    
+https://doc.qt.io/qt-5/qclipboard.html    
 """
 import platform
 import sys

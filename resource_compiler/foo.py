@@ -6,8 +6,8 @@ Qt resource system usage
 Tested environment:
     Mac OS X 10.6.8
 
-http://doc.qt.nokia.com/latest/resources.html
-http://doc.qt.nokia.com/latest/rcc.html
+https://doc.qt.io/qt-5/resources.html
+https://doc.qt.io/qt-5/rcc.html
 """
 import sys
 

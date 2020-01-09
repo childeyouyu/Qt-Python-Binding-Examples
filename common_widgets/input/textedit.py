@@ -9,7 +9,7 @@ QTextEdit demo
 Tested environment:
     Mac OS X 10.6.8
 
-http://doc.qt.nokia.com/latest/qtextedit.html
+https://doc.qt.io/qt-5/qtextedit.html
 http://www.pyside.org/docs/pyside/PySide/QtGui/QTextEdit.html
 """
 import os

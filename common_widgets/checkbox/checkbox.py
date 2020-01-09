@@ -6,9 +6,9 @@ QCheckBox demo
 Tested environment:
     Mac OS X 10.6.8
 
-http://doc.qt.nokia.com/latest/qcheckbox.html
-http://doc.qt.nokia.com/latest/qabstractbutton.html
-http://doc.qt.nokia.com/latest/qt.html#CheckState-enum
+https://doc.qt.io/qt-5/qcheckbox.html
+https://doc.qt.io/qt-5/qabstractbutton.html
+https://doc.qt.io/qt-5/qt.html#CheckState-enum
 """
 import sys
 

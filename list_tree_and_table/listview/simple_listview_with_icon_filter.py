@@ -15,7 +15,7 @@ Tested environment:
 Docs
  - http://www.pyside.org/docs/pyside/PySide/QtGui/QAbstractItemView.html
  - http://www.pyside.org/docs/pyside/PySide/QtGui/QListView.html
- - http://doc.qt.nokia.com/latest/model-view-programming.html
+ - https://doc.qt.io/qt-5/model-view-programming.html
 """
 import glob
 import os

@@ -6,7 +6,7 @@ copy the text of button from internal to external in DND
 Tested environment:
     Mac OS X 10.6.8
 
-http://doc.qt.nokia.com/latest/dnd.html
+https://doc.qt.io/qt-5/dnd.html
 file:///opt/local/share/doc/qt4/html/dnd.html
 """
 import sys

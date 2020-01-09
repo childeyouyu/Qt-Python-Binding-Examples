@@ -6,7 +6,7 @@ listen key
 Tested environment:
     Mac OS X 10.6.8
 
-http://doc.qt.nokia.com/latest/qwidget.html#events
+https://doc.qt.io/qt-5/qwidget.html#events
 """
 import sys
 

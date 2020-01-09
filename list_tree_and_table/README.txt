@@ -62,4 +62,4 @@ http://plan9.bell-labs.com/plan9/
 
 ## External links
 
- - [Qt Reference Documentation - Model/View Programming](http://doc.qt.nokia.com/latest/model-view-programming.html)
+ - [Qt Reference Documentation - Model/View Programming](https://doc.qt.io/latest/model-view-programming.html)

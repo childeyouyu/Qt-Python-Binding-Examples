@@ -8,7 +8,7 @@ Tested environment:
 
 Docs
 
- - http://doc.qt.nokia.com/latest/model-view-programming.html#using-drag-and-drop-with-item-views
+ - https://doc.qt.io/qt-5/model-view-programming.html#using-drag-and-drop-with-item-views
  - file:///opt/local/share/doc/qt4/html/qabstractitemmodel.html#dropMimeData
 """
 import glob

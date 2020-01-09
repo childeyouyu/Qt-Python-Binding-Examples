@@ -6,7 +6,7 @@ move a button in DND I
 Tested environment:
     Mac OS X 10.6.8
 
-http://doc.qt.nokia.com/latest/dnd.html
+https://doc.qt.io/qt-5/dnd.html
 """
 import sys
 

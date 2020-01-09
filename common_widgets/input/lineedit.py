@@ -6,7 +6,7 @@ demo template
 Tested environment:
     Mac OS X 10.6.8
 
-http://doc.qt.nokia.com/latest/qlineedit.html
+https://doc.qt.io/qt-5/qlineedit.html
 """
 import sys
 
@@ -32,7 +32,7 @@ class Demo(QtGui.QWidget):
         self.lineedit.setPlaceholderText("placeholder")
 
 
-#        http://doc.qt.nokia.com/latest/qlineedit.html#inputMask-prop
+#        https://doc.qt.io/qt-5/qlineedit.html#inputMask-prop
 #        mac_address_mask = "HH:HH:HH:HH:HH:HH;_"
 #        self.lineedit.setInputMask(mac_address_mask)
 

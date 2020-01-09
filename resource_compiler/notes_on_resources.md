@@ -2,8 +2,8 @@
 
 Qt resource system 用于在可执行应用程序里面保存二进制文件(icons, translation files 等等)。
 
- - [The Qt Resource System](http://doc.qt.nokia.com/latest/resources.html)
- - [Resource Compiler (rcc)](http://doc.qt.nokia.com/latest/rcc.html)
+ - [The Qt Resource System](https://doc.qt.io/qt-5/resources.html)
+ - [Resource Compiler (rcc)](https://doc.qt.io/qt-5/rcc.html)
 
 rcc means Qt's **r**esour**c**e **c**ompiler .
 

@@ -6,8 +6,8 @@ this project is released under the permissive 3-clause BSD license.
 
 Qt FEATURES, you should read these first of all
 
- - [Qt and Key Technologies](http://doc.qt.nokia.com/latest/technology-apis.html)
- - [MVC](http://doc.qt.nokia.com/latest/model-view-programming.html)
+ - [Qt and Key Technologies](https://doc.qt.io/qt-5/technology-apis.html)
+ - [MVC](https://doc.qt.io/qt-5/model-view-programming.html)
 
 ## Implementations
 
@@ -24,11 +24,11 @@ Qt FEATURES, you should read these first of all
 
 ## Other Resources
 
- - [Books about GUI Design](http://doc.qt.nokia.com/latest/guibooks.html)
+ - [Books about GUI Design](https://doc.qt.io/qt-5/guibooks.html)
  - [PySide Documentation contents](http://www.pyside.org/docs/pyside/contents.html)
- - [Qt Quarterly: C++ and Qt programmers' newsletter](http://doc.qt.nokia.com/qq/index.html)
- - [Qt Reference Documentation](http://doc.qt.nokia.com/latest/index.html)
-     - [Qt and Key Technologies](http://doc.qt.nokia.com/latest/technology-apis.html)
+ - [Qt Quarterly: C++ and Qt programmers' newsletter](https://doc.qt.io/qq/index.html)
+ - [Qt Reference Documentation](https://doc.qt.io/qt-5/index.html)
+     - [Qt and Key Technologies](https://doc.qt.io/qt-5/technology-apis.html)
 
 ## PyQt demos on Mac OS X
 

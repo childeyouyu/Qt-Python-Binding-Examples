@@ -6,7 +6,7 @@ custom the item of QComboBox
 Tested environment:
     Mac OS X 10.6.8
 
-http://doc.qt.nokia.com/latest/qcombobox.html
+https://doc.qt.io/qt-5/qcombobox.html
 http://www.pyside.org/docs/pyside/PySide/QtGui/QComboBox.html
 """
 import sys
