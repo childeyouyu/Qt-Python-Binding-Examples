@@ -6,7 +6,7 @@ this project is released under the permissive 3-clause BSD license.
 
 Qt FEATURES, you should read these first of all
 
- - [Qt and Key Technologies](https://doc.qt.io/qt-5/technology-apis.html)
+ - [Qt Features](https://www.qt.io/features)
  - [MVC](https://doc.qt.io/qt-5/model-view-programming.html)
 
 ## Implementations
@@ -14,21 +14,14 @@ Qt FEATURES, you should read these first of all
  - PySide
  - PyQt4 (sucks)
 
-[Differences Between PySide and PyQt](http://developer.qt.nokia.com/wiki/Differences_Between_PySide_and_PyQt)
+[Differences Between PySide and PyQt](https://wiki.qt.io/Differences_Between_PySide_and_PyQt)
 
-
-## Tutorials collection
-
- - [Qt Creator系列教程](http://www.yafeilinux.com/)
- - [Qt - 1+1=2](http://blog.csdn.net/dbzhang800/article/category/759342)
 
 ## Other Resources
 
  - [Books about GUI Design](https://doc.qt.io/qt-5/guibooks.html)
- - [PySide Documentation contents](http://www.pyside.org/docs/pyside/contents.html)
- - [Qt Quarterly: C++ and Qt programmers' newsletter](https://doc.qt.io/qq/index.html)
  - [Qt Reference Documentation](https://doc.qt.io/qt-5/index.html)
-     - [Qt and Key Technologies](https://doc.qt.io/qt-5/technology-apis.html)
+
 
 ## PyQt demos on Mac OS X
 
