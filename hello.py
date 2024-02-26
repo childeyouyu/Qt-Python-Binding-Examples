@@ -1,13 +1,13 @@
-#/usr/bin/env python
+# /usr/bin/env python
 import sys
 
-from PySide import QtGui
+from PySide6.QtWidgets import QApplication, QLabel
 
-app = QtGui.QApplication(sys.argv)
+app = QApplication(sys.argv)
 
-hello = QtGui.QLabel("hello Qt")
+hello = QLabel("hello Qt")
 hello.show()
-x, y, w, h = 100, 100, 100, 100
+x, y, w, h = 200, 200, 100, 100
 hello.setGeometry(x, y, w, h)
 
-sys.exit(app.exec_())
+sys.exit(app.exec())
